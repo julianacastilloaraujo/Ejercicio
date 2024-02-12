@@ -1,0 +1,5 @@
+a = input("Digite el valor de a:")
+b = input("Digite el valor de b:")
+c = input("Digite el valor de c:")
+function = (a**3) * (b**2 - (2(a*c)) / (2*b))
+print = (f"El resultado de la funcion es {function}")
