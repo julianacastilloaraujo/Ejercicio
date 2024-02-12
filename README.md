@@ -9,4 +9,4 @@ Ejercicio en python de Lin. Prof. III
 # Ejercicios  a realizar:
 * Ejercicio de promedio
 * Ejercicio de Funcion
-* Ejercicio de Persona
+* Ejercicio de Persona Alta
