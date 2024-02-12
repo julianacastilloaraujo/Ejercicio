@@ -7,3 +7,6 @@ Ejercicio en python de Lin. Prof. III
 * Numeros (int, float) 🌟
 
 # Ejercicios  a realizar:
+* Ejercicio de promedio
+* Ejercicio de Funcion
+* Ejercicio de Persona
