@@ -5,3 +5,5 @@ Ejercicio en python de Lin. Prof. III
 * Entrada de datos 🐍
 * Cadena 👩‍💻
 * Numeros (int, float) 🌟
+
+# Ejercicios  a realizar:
